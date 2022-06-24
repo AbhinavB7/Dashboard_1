@@ -1,6 +1,7 @@
 # Plotly_Charts
 
 All the charts are made on Spyder using the Plotly function.
+
 The following images show the output of the files
 
 Line Chart
